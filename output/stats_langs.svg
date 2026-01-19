@@ -177,17 +177,17 @@ div.ellipsis {
       <h2>Languages Used (By File Size)</h2>
       <div>
         <span class="progress">
-          <span class="progress-item" style="--final-width: 51.897668171208956%; --color: #DA5B0B; --delay: 0.85s;"></span>
-          <span class="progress-item" style="--final-width: 42.28280274124831%; --color: #3572A5; --delay: 1.05s;"></span>
-          <span class="progress-item" style="--final-width: 2.205992817030181%; --color: #427819; --delay: 1.26s;"></span>
-          <span class="progress-item" style="--final-width: 1.610688505822597%; --color: #dea584; --delay: 1.46s;"></span>
-          <span class="progress-item" style="--final-width: 0.6542377941061086%; --color: #555555; --delay: 1.67s;"></span>
-          <span class="progress-item" style="--final-width: 0.35162723430057696%; --color: #4F5D95; --delay: 1.88s;"></span>
-          <span class="progress-item" style="--final-width: 0.19400251471510505%; --color: #3178c6; --delay: 2.08s;"></span>
-          <span class="progress-item" style="--final-width: 0.1510975684309081%; --color: #f1e05a; --delay: 2.28s;"></span>
-          <span class="progress-item" style="--final-width: 0.139478657460377%; --color: #222c37; --delay: 2.49s;"></span>
-          <span class="progress-item" style="--final-width: 0.09140112977583228%; --color: #fcb32c; --delay: 2.69s;"></span>
-          <span class="progress-item" style="--final-width: 0.06927864569922002%; --color: #178600; --delay: 2.90s;"></span>
+          <span class="progress-item" style="--final-width: 51.86650701602844%; --color: #DA5B0B; --delay: 0.85s;"></span>
+          <span class="progress-item" style="--final-width: 42.31745814299836%; --color: #3572A5; --delay: 1.05s;"></span>
+          <span class="progress-item" style="--final-width: 2.204668262634562%; --color: #427819; --delay: 1.26s;"></span>
+          <span class="progress-item" style="--final-width: 1.609721392727808%; --color: #dea584; --delay: 1.46s;"></span>
+          <span class="progress-item" style="--final-width: 0.6538449671035573%; --color: #555555; --delay: 1.67s;"></span>
+          <span class="progress-item" style="--final-width: 0.3514161051458414%; --color: #4F5D95; --delay: 1.88s;"></span>
+          <span class="progress-item" style="--final-width: 0.1938860288944608%; --color: #3178c6; --delay: 2.08s;"></span>
+          <span class="progress-item" style="--final-width: 0.151006844224153%; --color: #f1e05a; --delay: 2.28s;"></span>
+          <span class="progress-item" style="--final-width: 0.1393949096496824%; --color: #222c37; --delay: 2.49s;"></span>
+          <span class="progress-item" style="--final-width: 0.09134624937582621%; --color: #fcb32c; --delay: 2.69s;"></span>
+          <span class="progress-item" style="--final-width: 0.06923704840390017%; --color: #178600; --delay: 2.90s;"></span>
           </span>
           </div>
           <ul>
@@ -197,7 +197,7 @@ div.ellipsis {
                   <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                 </svg>
                 <span class="lang">Jupyter Notebook</span>
-                <span class="percent">51.90%</span>
+                <span class="percent">51.87%</span>
               </li>
               <li style="--li-delay: 1.05s;">
                 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3572A5;"
@@ -205,7 +205,7 @@ div.ellipsis {
                   <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                 </svg>
                 <span class="lang">Python</span>
-                <span class="percent">42.28%</span>
+                <span class="percent">42.32%</span>
               </li>
               <li style="--li-delay: 1.26s;">
                 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#427819;"
@@ -213,7 +213,7 @@ div.ellipsis {
                   <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                 </svg>
                 <span class="lang">Makefile</span>
-                <span class="percent">2.21%</span>
+                <span class="percent">2.20%</span>
               </li>
               <li style="--li-delay: 1.46s;">
                 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#dea584;"
